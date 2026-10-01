@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://ankitpatel.online/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ankitpatel.online/blogs</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ankitpatel.online/terminal</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://ankitpatel.online/blogs/redis-sorted-sets-p99-320-to-40</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ankitpatel.online/blogs/idempotent-razorpay-webhooks-mongodb</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ankitpatel.online/blogs/realtime-proctoring-50k-websockets</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ankitpatel.online/blogs/langchain-prompt-caching-llm-latency</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ankitpatel.online/blogs/playwright-mcp-insurance-flows</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ankitpatel.online/blogs/dsa-consistency-500-problems-backend</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>

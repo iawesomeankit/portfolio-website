@@ -1,0 +1,17 @@
+{
+  "name": "ankit-portfolio-mern",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ankit Patel — minimal dark portfolio (MERN monorepo)",
+  "scripts": {
+    "dev": "npm run dev --workspace=server & npm run dev --workspace=client",
+    "dev:client": "npm run dev --workspace=client",
+    "dev:server": "npm run dev --workspace=server",
+    "build": "npm run build --workspace=client && npm run build --workspace=server",
+    "install:all": "npm install --workspace=client && npm install --workspace=server"
+  },
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}

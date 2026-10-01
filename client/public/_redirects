@@ -1,0 +1,5 @@
+/* SPA fallback for Cloudflare Pages / Netlify */
+/blogs/* /index.html 200
+/blog/* /index.html 200
+/terminal /index.html 200
+/* /index.html 200
